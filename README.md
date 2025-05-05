@@ -1,3 +1,12 @@
+# Kikwetu Blog Website
+
+<img src="./images/kikwetuBlog.PNG" alt="screenshot ">
+
+- TO view live website please visit
+
+> [MY WEBSITE LINK]
+
+
 # Final Project and Deployment
 
 ## Objectives
