@@ -1,34 +1,46 @@
 # Kikwetu Blog Website
 
+## This project was bilt for PLP web development last project
+
 <img src="./images/kikwetuBlog.PNG" alt="screenshot ">
 
 - TO view live website please visit
 
-> [MY WEBSITE LINK]
+>[WEBSITE-URL]
+> - https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-charlesricha/
 
 
-# Final Project and Deployment
+## Overview
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+🌍 Kikwetu Blog is a web application dedicated to showcasing the vibrant tapestry of Africa. Through engaging articles and stunning visuals, the blog explores African travels, incredible wildlife, diverse cultures, and much more. This project serves as a personal portfolio piece to demonstrate web development skills.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## Technologies Used
+    * HTML5
+    * CSS3
+    * JavaScript 
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## Setup and Installation
 
-## Tasks
+ **Clone the repository:**
+```bash
+    git clone https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-charlesricha.git
+    cd kikwetu-blog
+```
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+## Acknowledgements
 
-Good luck and happy coding! 🚀💻
+* Copied the design from **Dribble** from a website Template
+
+
+## Future Enhancements
+
+* Implement user authentication and commenting system.
+* Add social media sharing buttons.
+* Improve search functionality.
+* Explore different styling and design options.
+* Integrate with APIs for richer content (e.g., weather information for travel posts).
+
+## Contact
+
+(Charles Muthui) - (charlesmuthui2006@gmail.com)
+
